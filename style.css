@@ -1,0 +1,147 @@
+@font-face {
+    font-family: "Figtree";
+    src: url("./assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+    font-weight: 400, 700;
+}
+
+:root {
+    --primary-font: "Figtree";
+    --yellow: hsl(47, 88%, 63%);
+    --white: hsl(0, 0%, 100%);
+    --gray-500: hsl(0, 0%, 42%);
+    --gray-950: hsl(0, 0%, 7%);
+}
+
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--primary-font);
+    line-height: 1.5;
+    font-weight: 500;
+    font-size: 1.6rem;
+    background-color: var(--yellow);
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 2rem;
+    box-sizing: border-box;
+}
+
+.card {
+    max-width: 38.4rem;
+    background-color: var(--white);
+    border: 0.1rem solid var(--gray-950);
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    padding: 2.4rem;
+    gap: 2.4rem;
+    box-shadow: 0.8rem 0.8rem 0 var(--gray-950);
+}
+
+.blog-img img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.category {
+    padding: 0.4rem 1.2rem;
+    color: var(--gray-950);
+    background-color: var(--yellow);
+    font-weight: 800;
+    align-self: flex-start;
+}
+
+.title a {
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.3s;
+}
+
+.title a:hover {
+    color: var(--yellow);
+}
+
+.description {
+    color: var(--gray-500);
+}
+
+.author {
+    display: flex;
+    gap: 1.2rem;
+    align-items: center;
+}
+
+.author img {
+    width: 4.8rem;
+    height: 4.8rem;
+    border-radius: 50%;
+}
+
+.author span {
+    font-weight: 800;
+}
+
+/* Medium Screens (Tablets: 768px to 1200px) */
+@media (max-width: 1200px) {
+    .card {
+        max-width: 32.7rem;
+        padding: 2rem;
+        gap: 1.6rem;
+    }
+
+    .author img {
+        width: 4rem;
+        height: 4rem;
+    }
+}
+
+/* Small Screens (Mobile: below 768px) */
+@media (max-width: 768px) {
+    .card {
+        max-width: 90%;
+        border-radius: 1.2rem;
+        box-shadow: 0.6rem 0.6rem 0 var(--gray-950);
+    }
+
+    .content {
+        gap: 0.8rem;
+    }
+
+    .author img {
+        width: 3.2rem;
+        height: 3.2rem;
+    }
+
+    .category {
+        padding: 0.2rem 0.8rem;
+        font-size: 1.2rem;
+    }
+
+    .title {
+        font-size: 1.8rem;
+    }
+
+    .description {
+        font-size: 1.4rem;
+    }
+}
