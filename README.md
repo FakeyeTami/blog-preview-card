@@ -74,17 +74,3 @@ I want to continue improving the following:
 -   Frontend Mentor - [@FakeyeTami](https://www.frontendmentor.io/profile/FakeyeT)
 
 ---
-
-### Questions You Had:
-
-1. **Screenshot tips:**
-
-    - Use your browser's screenshot feature or tools like FireShot.
-    - Resize the window for mobile or desktop views before capturing to represent responsiveness clearly.
-    - Save and add the screenshot to `./assets/images/screenshot.jpg`.
-
-2. **Challenge links:**
-    - Add the solution URL on Frontend Mentor after submitting your solution.
-    - For the live site, deploy on GitHub Pages or Netlify and include the link.
-
-Let me know if you’d like help with deployment or screenshot specifics!
