@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [View my solution on Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-IMgMJSq9L2)
--   Live Site URL: [Live site on GitHub Pages](https://fakeyetami.github.io/Blog-Preview-Card)
+-   [View my solution on Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-IMgMJSq9L2)
+-   [Live site](https://fakeyet.github.io/Blog-Preview-Card/)
 
 ## My process
 
