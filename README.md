@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [View my solution on Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-using-html-css-and-flexbox-Dtlg90YZ)
--   Live Site URL: [Live site on GitHub Pages](https://fakeyetami.github.io/blog-preview-card)
+-   Solution URL: [View my solution on Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-IMgMJSq9L2)
+-   Live Site URL: [Live site on GitHub Pages](https://fakeyetami.github.io/Blog-Preview-Card)
 
 ## My process
 
@@ -71,7 +71,7 @@ I want to continue improving the following:
 ## Author
 
 -   GitHub - [FakeyeTami](https://github.com/FakeyeTami)
--   Frontend Mentor - [@FakeyeTami](https://www.frontendmentor.io/profile/FakeyeTami)
+-   Frontend Mentor - [@FakeyeTami](https://www.frontendmentor.io/profile/FakeyeT)
 
 ---
 
