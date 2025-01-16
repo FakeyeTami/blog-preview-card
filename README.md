@@ -61,7 +61,7 @@ Users should be able to:
 ### Links
 
 -   **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/blog-preview-card-IMgMJSq9L2)
--   **Live Demo**: [Live Site](https://fakeyet.github.io/Blog-Preview-Card/)
+-   **Live Demo**: [Live Site](https://fakeyetami.github.io/Blog-Preview-Card/)
 
 ---
 
