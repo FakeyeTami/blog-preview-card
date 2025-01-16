@@ -1,23 +1,52 @@
-# Frontend Mentor - Blog preview card solution
+# Blog Preview Card Solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+<div align="center">
 
-## Table of contents
+  <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="Frontend Mentor" width="80">
+
+  <h2>Frontend Mentor Challenge</h2>
+  <p>
+    <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS" target="_blank"><strong>View Challenge</strong></a>
+    <br />
+    <br />
+    <a href="https://fakeyet.github.io/Blog-Preview-Card/" target="_blank">Live Demo</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/Fakeyet/Blog-Preview-Card/issues" target="_blank">Report Bug</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/Fakeyet/Blog-Preview-Card/issues" target="_blank">Request Feature</a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+
+[![Frontend Mentor Profile](https://img.shields.io/badge/Profile-FakeyeTami-eee?style=for-the-badge&logo=frontendmentor)](https://www.frontendmentor.io/profile/FakeyeTami)
+[![Status Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](#)
+[![Challenge Difficulty - Newbie](https://img.shields.io/badge/Difficulty-Newbie-61BECD?style=for-the-badge&logo=frontendmentor)](https://www.frontendmentor.io/challenges?difficulties=1)
+
+</div>
+
+---
+
+## Table of Contents
 
 -   [Overview](#overview)
-    -   [The challenge](#the-challenge)
+    -   [The Challenge](#the-challenge)
     -   [Screenshot](#screenshot)
     -   [Links](#links)
--   [My process](#my-process)
-    -   [Built with](#built-with)
-    -   [What I learned](#what-i-learned)
-    -   [Continued development](#continued-development)
-    -   [Useful resources](#useful-resources)
+-   [My Process](#my-process)
+    -   [Built With](#built-with)
+    -   [What I Learned](#what-i-learned)
+    -   [Continued Development](#continued-development)
+    -   [Useful Resources](#useful-resources)
 -   [Author](#author)
+
+---
 
 ## Overview
 
-### The challenge
+### The Challenge
 
 Users should be able to:
 
@@ -25,25 +54,29 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution Screenshot](./assets/images/screenshot.jpg)
+<div align="center">
+  <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/kaiwxzdh90xhbdwsstvl.jpg" alt="Blog Preview Card Solution Screenshot">
+</div>
 
 ### Links
 
--   [View my solution on Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-IMgMJSq9L2)
--   [Live site](https://fakeyet.github.io/Blog-Preview-Card/)
+-   **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/blog-preview-card-IMgMJSq9L2)
+-   **Live Demo**: [Live Site](https://fakeyet.github.io/Blog-Preview-Card/)
 
-## My process
+---
 
-### Built with
+## My Process
+
+### Built With
 
 -   Semantic HTML5 markup
 -   CSS custom properties
 -   Flexbox
 -   Mobile-first workflow
 
-### What I learned
+### What I Learned
 
-I gained a better understanding of creating responsive layouts using **Flexbox**. Additionally, I refined my use of CSS custom properties to manage colors and typography more effectively.
+This project helped me refine my understanding of creating responsive layouts using **Flexbox**. Additionally, I improved my approach to managing colors and typography with **CSS custom properties**.
 
 ```css
 .category {
@@ -56,21 +89,21 @@ I gained a better understanding of creating responsive layouts using **Flexbox**
 }
 ```
 
-### Continued development
+### Continued Development
 
-I want to continue improving the following:
+I aim to focus on:
 
-1. **Accessibility (A11y):** To make sure all interactive elements are easily accessible via keyboard and/or screen readers.
-2. **CSS Performance:** Using tools like CSS audit plugins to reduce unused styles and optimize my code further.
+-   **Accessibility (A11y):** Ensuring all interactive elements are easily navigable via keyboard and/or screen readers.
+-   **CSS Performance:** Using tools like CSS audit plugins to reduce unused styles and optimize performance.
 
-### Useful resources
+### Useful Resources
 
--   [CSS Tricks - Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This was instrumental in helping me structure the layout for this challenge.
--   [MDN Web Docs - CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) - Helped me understand how to use and manage CSS variables effectively.
+-   [CSS Tricks - Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Helped structure the layout for this challenge.
+-   [MDN Web Docs - CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) - Provided a deeper understanding of CSS variables.
+
+---
 
 ## Author
 
--   GitHub - [FakeyeTami](https://github.com/FakeyeTami)
--   Frontend Mentor - [@FakeyeTami](https://www.frontendmentor.io/profile/FakeyeT)
-
----
+-   **GitHub**: [FakeyeTami](https://github.com/FakeyeTami)
+-   **Frontend Mentor**: [@FakeyeTami](https://www.frontendmentor.io/profile/FakeyeTami)
