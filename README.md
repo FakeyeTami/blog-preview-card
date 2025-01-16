@@ -58,6 +58,11 @@ Users should be able to:
   <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/kaiwxzdh90xhbdwsstvl.jpg" alt="Blog Preview Card Solution Screenshot">
 </div>
 
+### Links
+
+- **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-responsive-semantic-html-flexbox-ZADYTQh4aX)
+- **Live Demo**: [Live Site](https://FakeyeTami.github.io/Blog-Preview-Card/)
+
 ---
 
 ## My Process
