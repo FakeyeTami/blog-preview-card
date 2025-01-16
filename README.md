@@ -9,11 +9,11 @@
     <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS" target="_blank"><strong>View Challenge</strong></a>
     <br />
     <br />
-    <a href="https://fakeyet.github.io/Blog-Preview-Card/" target="_blank">Live Demo</a>
+    <a href="https://fakeyetami.github.io/Blog-Preview-Card/" target="_blank">Live Demo</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/Fakeyet/Blog-Preview-Card/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/Fakeyetami/Blog-Preview-Card/issues" target="_blank">Report Bug</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/Fakeyet/Blog-Preview-Card/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/Fakeyetami/Blog-Preview-Card/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -57,11 +57,6 @@ Users should be able to:
 <div align="center">
   <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/kaiwxzdh90xhbdwsstvl.jpg" alt="Blog Preview Card Solution Screenshot">
 </div>
-
-### Links
-
--   **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/blog-preview-card-IMgMJSq9L2)
--   **Live Demo**: [Live Site]( https://fakeyetami.github.io/Blog-Preview-Card/)
 
 ---
 
