@@ -74,6 +74,12 @@ Users should be able to:
 -   Flexbox
 -   Mobile-first workflow
 
+### Tools Used
+
+-   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+-   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+-   ![Firefox Developer Edition](https://img.shields.io/badge/Firefox%20Developer%20Edition-%23FF7139?style=for-the-badge&logo=firefox&logoColor=white)
+
 ### What I Learned
 
 This project helped me refine my understanding of creating responsive layouts using **Flexbox**. Additionally, I improved my approach to managing colors and typography with **CSS custom properties**.
