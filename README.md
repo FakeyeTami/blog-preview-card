@@ -9,11 +9,11 @@
     <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS" target="_blank"><strong>View Challenge</strong></a>
     <br />
     <br />
-    <a href="https://fakeyetami.github.io/Blog-Preview-Card/" target="_blank">Live Demo</a>
+    <a href="https://fakeyetami.github.io/blog-preview-card/" target="_blank">Live Demo</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/Fakeyetami/Blog-Preview-Card/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/Fakeyetami/blog-preview-card/issues" target="_blank">Report Bug</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/Fakeyetami/Blog-Preview-Card/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/Fakeyetami/blog-preview-card/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -61,7 +61,7 @@ Users should be able to:
 ### Links
 
 - **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-responsive-semantic-html-flexbox-ZADYTQh4aX)
-- **Live Demo**: [Live Site](https://FakeyeTami.github.io/Blog-Preview-Card/)
+- **Live Demo**: [Live Site](https://FakeyeTami.github.io/blog-preview-card/)
 
 ---
 
